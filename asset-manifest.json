@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Guns1301/wdm-test/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Guns1301/wdm-test/static/js/main.a7a9f4a9.chunk.js",
+    "main.js.map": "/Guns1301/wdm-test/static/js/main.a7a9f4a9.chunk.js.map",
+    "runtime-main.js": "/Guns1301/wdm-test/static/js/runtime-main.5ddaa1e7.js",
+    "runtime-main.js.map": "/Guns1301/wdm-test/static/js/runtime-main.5ddaa1e7.js.map",
+    "static/js/2.8199e566.chunk.js": "/Guns1301/wdm-test/static/js/2.8199e566.chunk.js",
+    "static/js/2.8199e566.chunk.js.map": "/Guns1301/wdm-test/static/js/2.8199e566.chunk.js.map",
+    "index.html": "/Guns1301/wdm-test/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Guns1301/wdm-test/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.8199e566.chunk.js.LICENSE.txt": "/Guns1301/wdm-test/static/js/2.8199e566.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Guns1301/wdm-test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ddaa1e7.js",
+    "static/js/2.8199e566.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a7a9f4a9.chunk.js"
+  ]
+}
