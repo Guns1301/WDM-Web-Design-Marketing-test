@@ -1,0 +1,15 @@
+.logo {
+  color: #018fde;
+  /* background-color: tomato; */
+}
+
+.navbar {
+  margin-right: 200px;
+  list-style: none;
+}
+
+.btn {
+  color: #121212;
+  border: 1px solid;
+  border-radius: 0;
+}
