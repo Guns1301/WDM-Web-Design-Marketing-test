@@ -1,7 +1,7 @@
 {
   "name": "wdm-test",
   "version": "0.1.0",
-  "homepage": "https://github.com/Guns1301/wdm-test",
+  "homepage": "https://Guns1301.github.io/wdm-test",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.1",

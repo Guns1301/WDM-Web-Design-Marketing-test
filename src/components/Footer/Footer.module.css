@@ -2,3 +2,22 @@
   color: #018fde;
   background-color: black;
 }
+.logo {
+  width: 110px;
+  height: 32px;
+  background-color: #018fde;
+}
+
+.dmca {
+  width: 83px;
+  height: 24px;
+  background-color: black;
+}
+
+.ddd {
+  width: 175px;
+  height: 24px;
+  font-weight: 500;
+  font-size: 14px;
+  background-color: black;
+}

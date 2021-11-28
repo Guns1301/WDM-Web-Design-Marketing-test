@@ -1,14 +1,32 @@
 .logo {
+  margin-top: 24px;
+  margin-left: 64px;
+  width: 110px;
+  height: 32px;
+
   color: #018fde;
   /* background-color: tomato; */
 }
 
 .navbar {
-  margin-right: 200px;
+  margin-top: 24px;
+  background-color: tomato;
+  margin: auto;
+  list-style: none;
+}
+
+.nav {
+  color: #8792a7;
+  margin-top: 24px;
+  margin: auto;
   list-style: none;
 }
 
 .btn {
+  margin-top: 24px;
+  margin-right: 64px;
+  width: 95px;
+  height: 40px;
   color: #121212;
   border: 1px solid;
   border-radius: 0;
